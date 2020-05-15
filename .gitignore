@@ -1,0 +1,12 @@
+# IDEs / Text editors
+.idea
+.vscode
+
+# Misc
+.env
+*.log
+.DS_Store
+
+# Project
+src/**/*.json
+node_modules
